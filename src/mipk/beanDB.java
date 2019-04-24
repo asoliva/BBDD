@@ -215,7 +215,7 @@ public class beanDB {
 		}
 
 	    //----- Mï¿½todo que realiza inserciones en la BD
-		public  void insert(String insertStatement)
+		public void insert(String insertStatement)
 		{
 			Statement stmt=null;
 			try {

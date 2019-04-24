@@ -62,6 +62,7 @@ if (!ok)
 <h1 class="w3-center">Bienvenido <%=session.getAttribute("usuario") %></h1>
 <h3 class="w3-center">Sesión iniciada</h3>
     </header>
+
 <hr/>
 
         <div class="w3-display-middle w3-center">
